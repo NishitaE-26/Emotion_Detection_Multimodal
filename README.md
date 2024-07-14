@@ -1,2 +1,2 @@
-# project_try
+# Emotion Detection Multimodal
 Just trying something
